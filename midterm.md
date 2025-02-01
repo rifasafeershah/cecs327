@@ -31,10 +31,10 @@ Solution: c) MAC address table
 
 5. A network administrator is connecting hosts A and B directly through their Ethernet interfaces, as shown in the illustration. Ping attempts between the hosts are unsuccessful. What can be done to provide connectivity between the hosts?
 ![image](https://github.com/user-attachments/assets/b9be5dc1-b0f1-4fe2-b96d-b6f1ae1c3958)
-1. A rollover cable should be used in place of the straight-through cable.
-2. The subnet masks should be set to 255.255.255.192.
-3. A default gateway needs to be set on each host.
-4. The subnet masks should be set to 255.255.255.0.
+1) A rollover cable should be used in place of the straight-through cable.
+2) The subnet masks should be set to 255.255.255.192.
+3) A default gateway needs to be set on each host.
+4) The subnet masks should be set to 255.255.255.0.
 a) 1 only
 b) 2 only
 c) 3 and 4 only
