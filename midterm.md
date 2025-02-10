@@ -1,26 +1,29 @@
-1. Which Layer 1 devices can be used to enlarge the area covered by a single LAN segment? (Select two)
-a) Switch
-b) Router
-c) NIC
-d) Hub
-e) Repeater
-Solution: d) Hub, e) Repeater
+Question 1  
+Which Layer 1 devices can be used to enlarge the area covered by a single LAN segment? (Select two)  
+a) Switch  
+b) Router  
+c) NIC  
+d) Hub  
+e) Repeater  
+Answer: d) Hub, e) Repeater
 
-2. The Sales and Production networks are separated by a Testking router as shown in the diagram below:
+Question 2  
+The Sales and Production networks are separated by a Testking router as shown in the diagram below:
 ![image](https://github.com/user-attachments/assets/7a893b65-2545-43cd-b0df-a52ebc611924)
-Which of the following statements most accurately describes the characteristics of the above networks broadcast and collision domains? (Select the two best answer choices)
-a) There are two broadcast domains in the network.
-b) There are four broadcast domains in the network.
-c) There are six broadcast domains in the network.
-d) There are four collision domains in the network.
-e) There are five collision domains in the network.
-f) There are seven collision domains in the network.
-Solution: a) There are two broadcast domains in the network., f) There are seven collision domains in the network.
+Which of the following statements most accurately describes the characteristics of the above networks broadcast and collision domains? (Select the two best answer choices)  
+a) There are two broadcast domains in the network.  
+b) There are four broadcast domains in the network.  
+c) There are six broadcast domains in the network.  
+d) There are four collision domains in the network.  
+e) There are five collision domains in the network.  
+f) There are seven collision domains in the network.  
+Answer: a) There are two broadcast domains in the network., f) There are seven collision domains in the network.
 
-3. The Internet is a packet-switched network.
-a) True
-b) False
-Solution: a) True
+Question 3  
+The Internet is a packet-switched network.  
+a) True  
+b) False  
+Answer: a) True
 
 4. An Ethernet switch forwards LAN traffic from connected devices based on the information stored in:
 a) DNS table
